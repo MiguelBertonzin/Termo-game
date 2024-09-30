@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1725915932 source:c:\users\miguel\desktop\faculdade\estrutura de dados\trabalho m1 termo\termo\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<ctime>
+	"ListaEncadeada.h"
+
+1725471600 c:\users\miguel\desktop\faculdade\estrutura de dados\trabalho m1 termo\termo\listaencadeada.h
+	<iostream>
+
